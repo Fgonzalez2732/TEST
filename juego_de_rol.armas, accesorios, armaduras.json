@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "684b040549c9eca6f499772d"
+  },
+  "nombre": "Cinturón de Vitalidad",
+  "efecto": "+20 puntos de vida",
+  "rareza": "común",
+  "nivel_requerido": 7,
+  "tipo": "cinturón"
+},
+{
+  "_id": {
+    "$oid": "684b041949c9eca6f499772f"
+  },
+  "nombre": "Anillo de Fuerza",
+  "efecto": "+5 fuerza",
+  "rareza": "raro",
+  "nivel_requerido": 6,
+  "tipo": "anillo"
+}]

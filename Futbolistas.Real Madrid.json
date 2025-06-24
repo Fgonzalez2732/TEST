@@ -1,0 +1,8 @@
+[{
+  "_id": {
+    "$oid": "684af3d649c9eca6f4997712"
+  },
+  "nombre": "Vinicius Jr",
+  "edad": 22,
+  "posición": "lateral"
+}]
